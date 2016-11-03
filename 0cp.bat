@@ -1,0 +1,1 @@
+copy CMFMOD_SJIS2_CFENC.prx K:\cheatmaster\CMFMOD_SJIS2_CFENC.prx
